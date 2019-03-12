@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-## trang chủ
+## Trang chủ
 
 You can use the [editor on GitHub](https://github.com/mystogan13897/duan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
