@@ -5,7 +5,7 @@ Họ tên | năm sinh | khóa
 Mystogan | 1997 | 16
 Dương | 1997 | 16
 
-![GitHub Logo](/Desktop/bận.png)
+![GitHub Logo](/hinhanh/1.png)
 
 You can use the [editor on GitHub](https://github.com/mystogan13897/duan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
